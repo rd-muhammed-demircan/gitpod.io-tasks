@@ -1,0 +1,10 @@
+
+tasks:
+  - init: ./mvnw compile
+    command: ./mvnw test
+
+
+
+vscode:
+  extensions:
+    - vscjava.vscode-java-pack
